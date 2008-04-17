@@ -2,3 +2,9 @@ THE TURKS DID IT!
 =================
 
 No, really. They did. I lie not!
+
+Anyway, this is bugged. You can probably reach the ACTUAL signup page here:
+
+<http://github.com/signup/free/tree>
+
+(Don't ask *me* why, I have somewhere between 0 and 0 idea why...)
